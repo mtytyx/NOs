@@ -9,8 +9,8 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "academic-forms.gl.joinmc.link",
-          "assigned_srv": "academic-forms.gl.joinmc.link",
+          "assigned_domain": "te.amo.pupina",
+          "assigned_srv": "te.amo.pupina",
           "assignment": {
             "type": "shared-ip"
           },
